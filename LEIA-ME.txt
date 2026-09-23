@@ -1,0 +1,19 @@
+CAÇAMBA JOINVILLE — VERSÃO SEO
+
+PUBLICAÇÃO
+Extraia o ZIP e envie index.html, style.css, sitemap.xml e a pasta assets para a raiz do repositório cacambajoinville, substituindo os arquivos anteriores. Não envie o ZIP inteiro como se fosse uma página.
+Endereço: https://rubensjr2026.github.io/cacambajoinville/
+
+ROBOTS.TXT: ATENÇÃO AO ENDEREÇO
+O Google só lê robots.txt na raiz do domínio: https://rubensjr2026.github.io/robots.txt
+Portanto, este robots.txt deve ser colocado no repositório de site pessoal rubensjr2026.github.io, caso você o utilize. Se já houver um robots.txt nessa raiz, preserve as regras e os sitemaps dos outros sites e adicione somente a linha Sitemap deste arquivo, verificando que não há bloqueio de /cacambajoinville/.
+Colocar robots.txt somente dentro de /cacambajoinville/ NÃO controla o rastreamento. Sem um bloqueio na raiz, o rastreamento é permitido por padrão.
+
+GOOGLE SEARCH CONSOLE
+Depois de publicar, confirme sua propriedade e envie: https://rubensjr2026.github.io/cacambajoinville/sitemap.xml
+Inspecione a URL inicial e solicite indexação. Indexação e posições dependem do Google; não são garantidas por estas alterações.
+
+WHATSAPP
+Todos os botões abrem uma mensagem identificando a origem como site Caçamba Joinville. Nos serviços, a mensagem também identifica a necessidade. A pessoa ainda precisa enviar a mensagem. Funciona mesmo com JavaScript desativado.
+
+Foram incluídos títulos e textos relevantes, descrição, canonical, dados estruturados da empresa e serviço, prévia de compartilhamento e imagens WebP mais leves. Nenhum preço, endereço de rua, avaliação ou horário foi inventado.
