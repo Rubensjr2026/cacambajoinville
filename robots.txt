@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://rubensjr2026.github.io/cacambajoinville/sitemap.xml
