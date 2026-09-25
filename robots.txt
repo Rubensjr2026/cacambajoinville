@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://colevila.com.br/sitemap.xml
